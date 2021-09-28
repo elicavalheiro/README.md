@@ -1,9 +1,5 @@
 <h1>Hello, I’m Eli! ✨ <img align="right" src="https://gpvc.arturio.dev/elicavalheiro" alt="Profile views"></h1>
 
-<a href="https://app.daily.dev/elicavalheiro">
-  <img align="left" src="https://api.daily.dev/devcards/86dd5f35ada34f09ba164ec64426df37.png?r=7ta" width="200" alt="Eli Cavalheiro's Dev Card"/>
-</a>
-
 <h2>Who am I?</h2>
 
 <p>🌱 &ensp; Front-end developer &ensp; | &ensp; 🕹️ &ensp; Gamer &ensp; | &ensp; ✏️  &ensp; Illustrator &ensp; | &ensp; 🎻 &ensp; Musician &ensp;</p>
