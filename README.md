@@ -2,9 +2,9 @@
 
 <h2>Who am I?</h2>
 
-<p>🌱 &ensp; Front-end developer &ensp; | &ensp; 🕹️ &ensp; Gamer &ensp; | &ensp; ✏️  &ensp; Illustrator &ensp; | &ensp; 🎻 &ensp; Musician &ensp;</p>
+<p>🌱 &ensp; Front-end developer &ensp; | &ensp; 🕹️ &ensp; Gamer &ensp; | &ensp; ✏️  &ensp; Illustrator &ensp;
 
-###### I really like to create some stuff :D
+###### I love to create stuff :D
 
 <h2>Techs and tools I like to work with</h2>
 <p>
