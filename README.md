@@ -1,6 +1,6 @@
 <h1>Hello, I’m Eli! ✨ <img align="right" src="https://gpvc.arturio.dev/elicavalheiro" alt="Profile views"></h1>
 
-<h2>Who am I?</h2>
+<h2>About me</h2>
 
 <p>🌱 &ensp; Front-end developer &ensp; | &ensp; 🕹️ &ensp; Gamer &ensp; | &ensp; ✏️  &ensp; Illustrator &ensp;
 
