@@ -16,8 +16,6 @@
   <img height="32" src="https://res.cloudinary.com/dg5pzm35l/image/upload/v1595622944/sass-original_zvr2lz.svg"/>
 </p>
 
-<br />
-
 <h2> Some stats - <strike>(why not?)</strike></h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
