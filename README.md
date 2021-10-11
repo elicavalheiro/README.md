@@ -24,3 +24,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elicavalheiro&show_icons=true&theme=dracula&hide_border=true&hide=issues&count_private=true&line_height=24" />
 </a>
+
+###### ps.: instead of reading "Typescript" you can read React (that's because all my React projects is been written with Typescript lately :D)
