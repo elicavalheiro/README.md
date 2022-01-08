@@ -1,4 +1,4 @@
-<h1>Hello, I’m Eli! ✨ <img align="right" src="https://gpvc.arturio.dev/elicavalheiro" alt="Profile views"></h1>
+<h1>Hello, I’m Eli! ✨
 
 <h2>About me</h2>
 
